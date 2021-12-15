@@ -4,6 +4,6 @@
 @endsection
 
 @section('my_menu')
-    <li><a class="nav-link" href="/home">我的選項</a></li>
+    <li><a class="nav-link" href="/exam56_1214/public/home">我的選項</a></li>
     @parent
 @stop 
